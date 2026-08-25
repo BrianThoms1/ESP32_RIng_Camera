@@ -827,10 +827,10 @@ void startCameraServer() {
 esp_err_t err = httpd_start(&stream_httpd, &config);
 
 if (err == ESP_OK) {
-    Serial.println("✅ Stream server started on port 81");
+    Serial.println("Stream server started on port 81");
     httpd_register_uri_handler(stream_httpd, &stream_uri);
 } else {
-    Serial.printf("❌ Stream server failed! Error = %d\n", err);
+    Serial.printf("Stream server failed! Error = %d\n", err);
 }
 }
 
