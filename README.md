@@ -104,11 +104,11 @@ Develop initial Swift/SwiftUI iOS interface
 
 Connect iOS application to ESP32-CAM over the network
 
-Expand motion-event history
+Expand motion-event history. (work in Progress) 
 
-Improve mobile application UI
+Improve mobile application UI. (work in Progress) 
 
-Develop a permanent enclosure
+Develop a permanent enclosure. (work in Progress) 
 
 **Engineering Challenges**
 
