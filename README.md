@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/83374464-0aac-466d-bc3e-6327fb7697a5
+
 **ESP32 Ring Camera Embedded System**
 
 A smart security camera prototype built around with a ESP32-CAM, combining embedded hardware, motion detection, WIFI( camera and an IOS application. 
